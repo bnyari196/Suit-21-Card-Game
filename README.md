@@ -29,3 +29,27 @@ SUIT21 is a card game implemented in Java, supporting 2 to 6 players, including 
 
 - Java 8 or later
 - A terminal or command prompt
+
+### Steps to Run the Game
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/suit21.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd suit21
+    ```
+
+3. Compile the Java files:
+    ```bash
+    javac *.java
+    ```
+
+4. Run the game:
+    ```bash
+    java Main
+    ```
+
+Enjoy the game!
